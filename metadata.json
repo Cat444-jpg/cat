@@ -1,0 +1,6 @@
+{
+  "name": "Socratic Math AI Tutor",
+  "description": "A compassionate, Socratic AI tutor that guides you through complex math step-by-step rather than just giving the answer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
